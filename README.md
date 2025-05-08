@@ -1,4 +1,4 @@
-# Trans_scripts 
+# Trans_script 
 A Python script designed to clean lecture transcripts by removing timestamps, line numbers, and empty lines, making them easier to read and study. Originally created to process Panopto transcripts for personal study, this tool has been enhanced to support multiple transcript formats (SRT, VTT, and simple), with robust error handling, logging, and customizable output options. Perfect for students, researchers, or anyone looking to streamline transcript-based learning.
 
 Features
